@@ -1,4 +1,5 @@
 Constantes {
+#commentaire
  constante HELLO_WORLD_TITLE = « Title Hello world »
  constante HELLO_WORLD_TEXT = « Hello world text »
  constante HELLO_WORLD_BODY = « Hello world body »
